@@ -41,19 +41,19 @@ begin();
 
 
 function hideNextButton() {
-	document.getElementById("next").style.display = "none";
+	document.getElementById("next").style.visibility = "hidden";
 }
 
 function hidePreviousButton() {
-	document.getElementById("previous").style.display = "none";
+	document.getElementById("previous").style.visibility = "hidden";
 }
 
 function displayNextButton() {
-	document.getElementById("next").style.display = "block";
+	document.getElementById("next").style.visibility = "visible";
 }
 
 function displayPreviousButtton() {
-	document.getElementById("previous").style.display = "block";
+	document.getElementById("previous").style.visibility = "visible";
 }
 
 function goToPreviousResume() {
