@@ -1,6 +1,8 @@
 # G4A3_JS_GradedProject2
 problem statement
+
 note --> server is required for this code .
+
 Resume Template
 You are working as a front end developer in an organization and the organization has job openings in various departments. The organization has also received various applications for these positions and the data is available in JSON format. Use the data shared along with this problem statement. You, as a front end engineer, should develop a single User interface where you can see the details shared by the candidates or the applicants. Below are the detailed requirements which you have to achieve as a first version of the web page design.
 
