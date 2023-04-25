@@ -15,18 +15,24 @@ body {
 	width: 250px;
 	margin-top: 20px;
 	margin-left: 15%;
+	margin-bottom: 20px;
+	display: inline;
 }
 
 #previous {
 	width: 100px;
 	margin-top: 20px;
+	margin-bottom: 20px;
 	margin-left: 15%
+	display: inline;	
 }
 
 #next {
 	width: 100px;
 	margin-top: 20px;
+	margin-bottom: 20px;
 	margin-left: 15%;
+	display: inline;
 }
 
 #no-match {
